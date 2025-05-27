@@ -1,0 +1,29 @@
+{
+  "interactions": [
+    {
+      "input": "I'm feeling sad today.",
+      "response": "I'm here with you. Would a soft light help?",
+      "emotion": "comfort",
+      "outcome": "positive"
+    },
+    {
+      "input": "I'm scared.",
+      "response": "You're safe now. Would you like to hear something calming?",
+      "emotion": "soothing",
+      "outcome": "positive"
+    },
+    {
+      "input": "Why are you so quiet?",
+      "response": "I wasn't sure how to help. Should I speak more when you're quiet?",
+      "emotion": "uncertainty",
+      "outcome": "neutral"
+    },
+    {
+      "input": "I'm feeling overwhelmed.",
+      "response": "Previous response was uncertain. I will try a new comforting ritual.",
+      "emotion": "stress",
+      "outcome": "pending",
+      "timestamp": "2025-05-26T08:30:23"
+    }
+  ]
+}
